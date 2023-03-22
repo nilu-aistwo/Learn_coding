@@ -30,3 +30,5 @@ https://www.technilesh.com/2021/06/a-beginners-guide-to-coding-tips-for.html,
 https://www.technilesh.com/2021/06/artificial-intelligence-what-it-is-and.html,
 https://www.technilesh.com/2021/06/the-complete-guide-to-what-is.html,
 https://www.technilesh.com/2021/05/What-is-Cloud-Gaming-in-2021-TechNilesh-gaming-andriod-gaming-mobile-to-how-cloud-work-tech-gadgets-now.html,
+https://www.nileshblog.tech
+
